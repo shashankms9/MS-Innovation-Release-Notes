@@ -16,6 +16,68 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-01-31</summary>
+
+## Release Date: 2026-01-31
+
+### Summary of Changes 
+
+-  Updated content and infrastructure for January 2026 release cycle.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Instructions and Screenshots have been updated in the lab guide as per new UI changes in Azure resources.
+
+### Screenshot Update
+
+N/A
+  
+### Testing Notes
+
+- **Testing Date**: 2026-01-31
+
+### Testing Scope 
+
+- Validation included checks for infrastructure compatibility, lab flow continuity, content accuracy, and alignment of screenshots with the latest UI.
+  
+</details>
+
+<details>
+  <summary>2025-12-02</summary>
+
+## Release Date: 2025-12-02
+
+### Summary of Changes 
+
+-  Updated content and infrastructure for December 2025 release cycle.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Instructions and Screenshots have been updated in the lab guide as per new UI changes in Azure resources.
+
+### Screenshot Update
+
+N/A
+  
+### Testing Notes
+
+- **Testing Date**: 2025-12-02
+
+### Testing Scope 
+
+- Validation included checks for infrastructure compatibility, lab flow continuity, content accuracy, and alignment of screenshots with the latest UI.
+  
+</details>
+
+<details>
   <summary>2025-11-20</summary>
 
 ## Release Date: 2025-11-20
