@@ -22,19 +22,25 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes 
 
--  Updated content and infrastructure for January 2026 release cycle.
+-  Updated Azure AI Search integration and enhanced Prompt Flow configuration for improved RAG implementation.
 
 ### Infrastructure Changes
 
-- NA
+- Updated Azure OpenAI service endpoints to use latest API versions.
+- Enhanced role-based access control (RBAC) configurations for Azure AI Search.
 
 ### Content Changes
 
-- Instructions and Screenshots have been updated in the lab guide as per new UI changes in Azure resources.
+- Challenge 5: Updated Azure AI Search index creation with new semantic ranking options.
+- Challenge 6: Enhanced Prompt Flow deployment instructions with updated connection configurations.
+- Challenge 7: Revised chatbot container deployment commands to include latest environment variables.
+- Updated all Azure OpenAI service screenshots to reflect new Azure AI Foundry portal interface.
 
 ### Screenshot Update
 
-N/A
+- Refreshed Azure AI Search configuration screenshots.
+- Updated Prompt Flow connection setup images.
+- Added new Azure AI Foundry portal navigation screenshots.
   
 ### Testing Notes
 
@@ -42,7 +48,7 @@ N/A
 
 ### Testing Scope 
 
-- Validation included checks for infrastructure compatibility, lab flow continuity, content accuracy, and alignment of screenshots with the latest UI.
+- Comprehensive testing of RAG implementation workflow. Validated Azure AI Search indexing, Prompt Flow connections, and end-to-end chatbot functionality with latest Azure AI Foundry updates.
   
 </details>
 
@@ -53,19 +59,22 @@ N/A
 
 ### Summary of Changes 
 
--  Updated content and infrastructure for December 2025 release cycle.
+-  Updated Azure Container Apps deployment instructions and enhanced PostgreSQL configuration steps.
 
 ### Infrastructure Changes
 
-- NA
+- Updated container registry authentication methods to support latest Azure CLI commands.
 
 ### Content Changes
 
-- Instructions and Screenshots have been updated in the lab guide as per new UI changes in Azure resources.
+- Challenge 3: Enhanced PostgreSQL deployment instructions with additional connection string validation steps.
+- Challenge 4: Updated Container Apps environment configuration to reflect new Azure portal UI changes.
+- Updated screenshots for Azure Container Apps deployment workflow.
 
 ### Screenshot Update
 
-N/A
+- Updated Azure Container Apps creation screenshots.
+- Refreshed PostgreSQL connection configuration images.
   
 ### Testing Notes
 
@@ -73,7 +82,7 @@ N/A
 
 ### Testing Scope 
 
-- Validation included checks for infrastructure compatibility, lab flow continuity, content accuracy, and alignment of screenshots with the latest UI.
+- End-to-end testing performed on all container deployment challenges. Validated PostgreSQL connectivity and Azure Container Apps environment setup.
   
 </details>
 
